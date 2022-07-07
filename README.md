@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 # Mouse Information Technology Research Co.,Ltd.
-There is the official repository of MITR, which includes Projects and Tutorials.
+This is the official repository of MITR, which includes Projects and Tutorials.
