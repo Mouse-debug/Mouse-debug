@@ -1,5 +1,5 @@
 <!--
-**M-IT-R/M-IT-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mouse-debug/Mouse-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Mouse Information Technology Research Co.,Ltd.
-This is the official repository of MITR, which includes Projects and Tutorials.
+# Mouse-debug
+
+There is a mouse debugging...
