@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 There is a mouse debugging...
 
-a~ba~a~ba~~~
+a ~ ba ~ a ~ ba ~~~
